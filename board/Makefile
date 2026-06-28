@@ -31,6 +31,7 @@ lib-$(CONFIG_SAMSUNG_NOBLELTE) += samsung/board-noblelte.o
 lib-$(CONFIG_SAMSUNG_R0Q) += samsung/board-r0q.o
 lib-$(CONFIG_SAMSUNG_R8S) += samsung/board-r8s.o
 lib-$(CONFIG_SAMSUNG_STARLTE) += samsung/board-starlte.o
+lib-$(CONFIG_SAMSUNG_STAR2LTE) += samsung/board-star2lte.o
 lib-$(CONFIG_SAMSUNG_X1S) += samsung/board-x1s.o
 lib-$(CONFIG_SAMSUNG_ZEROFLTE) += samsung/board-zeroflte.o
 lib-$(CONFIG_SONY_LILAC) += sony/board-lilac.o
